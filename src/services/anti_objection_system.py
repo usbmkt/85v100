@@ -11,7 +11,7 @@ from typing import Dict, List, Any, Optional
 from .ai_manager import QuantumAIManager
 from .auto_save_manager import auto_save_manager
 
-logger = logging.getLogger(__name__)_)
+logger = logging.getLogger(__name__)
 
 class AntiObjectionSystem:
     """Sistema Anti-Objeção com Arsenal Completo"""
